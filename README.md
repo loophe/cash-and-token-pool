@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/vittominacori/erc20-generator/badge.svg?branch=master)](https://coveralls.io/github/vittominacori/erc20-generator?branch=master)
 [![MIT licensed](https://img.shields.io/github/license/vittominacori/erc20-generator.svg)](https://github.com/vittominacori/erc20-generator/blob/master/LICENSE)
 
-A simple Smart Contract generator for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token.
+A brand new way to raise fund
 
 Token has a Role Based Access Control so you can add the `MINTER` permission to users or Smart Contracts.
 
